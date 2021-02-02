@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://letsfilipino.com/ph/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/ph/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/ph/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://letsfilipino.com/ph/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://letsfilipino.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ph"
+                href="http://letsfilipino.com/ph/tags/"
+                />
+  </url>
+  
+</urlset>

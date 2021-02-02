@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>comprehensive input on Lets Filipino</title>
+    <link>http://letsfilipino.com/en/tags/comprehensive-input/</link>
+    <description>Recent content in comprehensive input on Lets Filipino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    
+        <atom:link href="http://letsfilipino.com/en/tags/comprehensive-input/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Bahagi Ng Mukha</title>
+        <link>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</link>
+        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tprs</category>
+            
+          
+            
+              <category>comprehensive input</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
