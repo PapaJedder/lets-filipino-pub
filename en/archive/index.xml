@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Lets Filipino</title>
-    <link>http://letsfilipino.com/en/archive/</link>
+    <link>/en/archive/</link>
     <description>Recent content in Archive on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 24 Jan 2021 16:42:47 -0700</lastBuildDate>
     
-        <atom:link href="http://letsfilipino.com/en/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

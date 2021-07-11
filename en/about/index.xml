@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>About on Lets Filipino</title>
-    <link>http://letsfilipino.com/en/about/</link>
+    <link>/en/about/</link>
     <description>Recent content in About on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://letsfilipino.com/en/about/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/about/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Lets Filipino</title>
-    <link>http://letsfilipino.com/en/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
     <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 20:28:23 -0700</lastBuildDate>
     
-        <atom:link href="http://letsfilipino.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>comprehensive input</title>
-        <link>http://letsfilipino.com/en/tags/comprehensive-input/</link>
-        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <link>/en/tags/comprehensive-input/</link>
+        <pubDate>Thu, 11 Feb 2021 20:28:23 -0700</pubDate>
         <author>papajedder@gmail.com (papajedder)</author>
         
-        <guid>http://letsfilipino.com/en/tags/comprehensive-input/</guid>
+        <guid>/en/tags/comprehensive-input/</guid>
         <description></description>
         
         <dc:creator>papajedder</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>tprs</title>
-        <link>http://letsfilipino.com/en/tags/tprs/</link>
-        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <link>/en/tags/tprs/</link>
+        <pubDate>Thu, 11 Feb 2021 20:28:23 -0700</pubDate>
         <author>papajedder@gmail.com (papajedder)</author>
         
-        <guid>http://letsfilipino.com/en/tags/tprs/</guid>
+        <guid>/en/tags/tprs/</guid>
         <description></description>
         
         <dc:creator>papajedder</dc:creator>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>funny on Lets Filipino</title>
+    <link>http://letsfilipino.com/en/tags/funny/</link>
+    <description>Recent content in funny on Lets Filipino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://letsfilipino.com/en/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Bulkan Mayon</title>
+        <link>http://letsfilipino.com/en/posts/2018/bulkan-mayon/</link>
+        <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Wed, 24 Jan 2018 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2018/bulkan-mayon/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>funny</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -3,58 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://letsfilipino.com/ph/categories/</loc>
+    <loc>/ph/a/</loc>
+    <lastmod>2021-02-03T21:51:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ph/a/anay/</loc>
+    <lastmod>2021-02-03T21:51:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ph/</loc>
+    <lastmod>2021-02-03T21:51:22-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://letsfilipino.com/en/categories/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="http://letsfilipino.com/ph/categories/"
+                href="/ph/"
                 />
   </url>
   
   <url>
-    <loc>http://letsfilipino.com/ph/</loc>
+    <loc>/ph/a/apoy/</loc>
+    <lastmod>2021-02-03T21:43:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ph/a/abo/</loc>
+  </url>
+  
+  <url>
+    <loc>/ph/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://letsfilipino.com/en/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="http://letsfilipino.com/ph/"
+                href="/ph/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://letsfilipino.com/ph/series/</loc>
+    <loc>/ph/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://letsfilipino.com/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="http://letsfilipino.com/ph/series/"
+                href="/ph/series/"
                 />
   </url>
   
   <url>
-    <loc>http://letsfilipino.com/ph/tags/</loc>
+    <loc>/ph/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://letsfilipino.com/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
-                href="http://letsfilipino.com/ph/tags/"
+                href="/ph/tags/"
                 />
   </url>
   

@@ -7,30 +7,98 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Learn Filipino the Natural Way on Lets Filipino</title>
-    <link>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</link>
+    <link>/en/series/learn-filipino-the-natural-way/</link>
     <description>Recent content in Learn Filipino the Natural Way on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
     <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 20:28:23 -0700</lastBuildDate>
     
-        <atom:link href="http://letsfilipino.com/en/series/learn-filipino-the-natural-way/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/series/learn-filipino-the-natural-way/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Bahagi Ng Mukha</title>
-        <link>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</link>
-        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <title>Banana</title>
+        <link>/en/posts/2021/banana/</link>
+        <pubDate>Thu, 11 Feb 2021 20:28:23 -0700</pubDate>
         <author>papajedder@gmail.com (papajedder)</author>
-        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
-        <guid>http://letsfilipino.com/en/posts/2021/bahagi-ng-mukha/</guid>
+        <atom:modified>Thu, 11 Feb 2021 20:28:23 -0700</atom:modified>
+        <guid>/en/posts/2021/banana/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        <media:content url="images/lftnw/banana.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tprs</category>
+            
+          
+            
+              <category>comprehensive input</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Bahagi N Mukha Pt2</title>
+        <link>/en/posts/2021/bahagi-n-mukha-pt2/</link>
+        <pubDate>Mon, 01 Feb 2021 18:59:50 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Mon, 01 Feb 2021 18:59:50 -0700</atom:modified>
+        <guid>/en/posts/2021/bahagi-n-mukha-pt2/</guid>
         <description>   </description>
         
         <dc:creator>papajedder</dc:creator>
         
+        
+        
+        
+          
+            
+              <category>tprs</category>
+            
+          
+            
+              <category>comprehensive input</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Bahagi Ng Mukha</title>
+        <link>/en/posts/2021/bahagi-ng-mukha/</link>
+        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 22 Jan 2021 23:22:13 -0700</atom:modified>
+        <guid>/en/posts/2021/bahagi-ng-mukha/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        <media:content url="images/lftnw/lftnw-mukha.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

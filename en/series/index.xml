@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Lets Filipino</title>
-    <link>http://letsfilipino.com/en/series/</link>
+    <link>/en/series/</link>
     <description>Recent content in Series on Lets Filipino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
     <webMaster>papajedder@gmail.com (papajedder)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 23:22:13 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 20:28:23 -0700</lastBuildDate>
     
-        <atom:link href="http://letsfilipino.com/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Learn Filipino the Natural Way</title>
-        <link>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</link>
-        <pubDate>Fri, 22 Jan 2021 23:22:13 -0700</pubDate>
+        <link>/en/series/learn-filipino-the-natural-way/</link>
+        <pubDate>Thu, 11 Feb 2021 20:28:23 -0700</pubDate>
         <author>papajedder@gmail.com (papajedder)</author>
         
-        <guid>http://letsfilipino.com/en/series/learn-filipino-the-natural-way/</guid>
+        <guid>/en/series/learn-filipino-the-natural-way/</guid>
         <description></description>
         
         <dc:creator>papajedder</dc:creator>

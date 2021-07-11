@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>introduction on Lets Filipino</title>
+    <link>http://letsfilipino.com/en/tags/introduction/</link>
+    <description>Recent content in introduction on Lets Filipino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://letsfilipino.com/en/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>I Am Papajedder</title>
+        <link>http://letsfilipino.com/en/posts/2019/i-am-papajedder/</link>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Fri, 29 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2019/i-am-papajedder/</guid>
+        <description>   </description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>basics</category>
+            
+          
+            
+              <category>introduction</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Learn Filipino the Natural Way</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Lets Filipino Time</title>
+        <link>http://letsfilipino.com/en/posts/2017/lets-filipino-time/</link>
+        <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sat, 23 Dec 2017 00:00:00 +0000</atom:modified>
+        <guid>http://letsfilipino.com/en/posts/2017/lets-filipino-time/</guid>
+        <description>   </description>
+        
+        <dc:creator>Papa Jedder</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>introduction</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
