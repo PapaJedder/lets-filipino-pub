@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/posts/2021/katawan/</loc>
-    <lastmod>2021-06-27T09:07:01-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/en/</loc>
-    <lastmod>2021-06-27T09:07:01-06:00</lastmod>
+    <lastmod>2021-10-07T09:15:35-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ph"
@@ -24,6 +19,36 @@
   
   <url>
     <loc>/en/posts/</loc>
+    <lastmod>2021-10-07T09:15:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/posts/2021/rosasan/</loc>
+    <lastmod>2021-10-07T09:15:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/presentation/first-words/</loc>
+    <lastmod>2021-07-11T12:39:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/slides/first-words/</loc>
+    <lastmod>2021-07-11T12:39:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/presentation/</loc>
+    <lastmod>2021-07-11T12:39:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/slides/</loc>
+    <lastmod>2021-07-11T12:39:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/posts/2021/katawan/</loc>
     <lastmod>2021-06-27T09:07:01-06:00</lastmod>
   </url>
   

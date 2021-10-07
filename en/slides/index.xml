@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Slides on Lets Filipino</title>
+    <link>/en/slides/</link>
+    <description>Recent content in Slides on Lets Filipino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>papajedder@gmail.com (papajedder)</managingEditor>
+    <webMaster>papajedder@gmail.com (papajedder)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 11 Jul 2021 12:39:43 -0600</lastBuildDate>
+    
+        <atom:link href="/en/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>First Words</title>
+        <link>/en/slides/first-words/</link>
+        <pubDate>Sun, 11 Jul 2021 12:39:43 -0600</pubDate>
+        <author>papajedder@gmail.com (papajedder)</author>
+        <atom:modified>Sun, 11 Jul 2021 12:39:43 -0600</atom:modified>
+        <guid>/en/slides/first-words/</guid>
+        <description>Stack ExampleOne
+Two
+Three
+Four
+Stack Examplefade-in-then-out fragments
+</description>
+        
+        <dc:creator>papajedder</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
